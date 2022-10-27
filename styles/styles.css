@@ -1,0 +1,52 @@
+body{
+    box-sizing: border-box;
+    color: gray;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #123251eb;
+}
+
+.header{
+    height: max-content;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.texto-descriptivo{
+    height: max-content;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10px;
+}
+
+
+.ecuacion{
+    height: 100px;
+    width: 100px;
+}
+
+.centrar-imagen{
+    width: max-content;
+    height: max-content;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+form{
+    width: 200px;
+}
+
+.centrar-formulario{
+    height: max-content;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boton{
+    margin-top: 10px;
+    margin-left: 150px;
+}
